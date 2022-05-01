@@ -277,7 +277,7 @@ public:
 			cout << "//";
 		}
 	}
-	char welcomegame()                       // start page
+char welcomegame()                       // start page
 	{
 		char k;
 		textcolour(5);
